@@ -5,7 +5,7 @@
 完成后进入[编辑器主页](https://EhTagTranslation.GitHub.io/Editor)，点击右上角的“登录”按钮。  
 ![](img/logon.png)
 
-在弹出的窗口中选择“Authorize EhTagTranslation”即可将已经在 GitHub 登录的账户授权用于向 EhTagTraslation 项目提交翻译。  
+在弹出的窗口中选择“Authorize EhTagTranslation”即可将已经在 GitHub 登录的账户授权用于向 EhTagTraslation 项目提交翻译并记录贡献。  
 ![](img/auth.png)
 
 完成后右上角将显示已登录用户的头像及名字。可点击该处管理登录信息。  
@@ -40,6 +40,8 @@
 ![](img/edit-search.png)
 
 编辑完成后可以点击“预览”按钮，在右侧的预览窗格中显示预览效果。
+
+**强烈建议提交前至少先预览一下最终的编辑结果。**
 
 确认无误后点击“提交”按钮提交翻译。提交可能需要较长时间，请不要在“更改已提交”的提示出现前关闭页面。  
 ![](img/commit-edit.png)
