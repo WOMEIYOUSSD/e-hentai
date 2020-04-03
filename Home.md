@@ -1,8 +1,8 @@
 注册并登录 GitHub 账号
 =====
-本项目使用 GitHub 管理翻译数据，记录用户的贡献。因此，在提交翻译之前，需要准备一个 GitHub 账号，并在 [GitHub](https://github.com/login) 完成登录。具体操作比较简单，实在不会可以百度。
+本项目使用 GitHub 管理翻译数据，记录用户的贡献。因此，在提交翻译之前，需要准备一个 GitHub 账号，并在 [GitHub](/login) 完成登录。具体操作比较简单，实在不会可以百度。
 
-完成后进入[编辑器主页](https://EhTagTranslation.GitHub.io/Editor)，点击右上角的“登录”按钮。  
+完成后进入[编辑器主页](//EhTagTranslation.GitHub.io/Editor)，点击右上角的“登录”按钮。  
 ![](img/logon.png)
 
 在弹出的窗口中选择“Authorize EhTagTranslation”即可将已经在 GitHub 登录的账户授权用于向 EhTagTraslation 项目提交翻译并记录贡献。  
@@ -24,7 +24,7 @@
    点击命名空间名称或 rows 命名空间下的标签名称，可以依据命名空间过滤标签。点击搜索框右边过滤命名空间右侧的“x”可清除过滤器。  
    ![](img/ns-filter.png)
 1. **开始编辑**  
-   点击标签左侧的铅笔图标编辑相应的标签，点击表头的加号图标添加新的标签。部分标签处于锁定状态，无法编辑，需要前往[数据库](https://github.com/EhTagTranslation/Database)通过 Issues 或 PRs 进行编辑。
+   点击标签左侧的铅笔图标编辑相应的标签，点击表头的加号图标添加新的标签。部分标签处于锁定状态，无法编辑，需要前往[数据库](../../../Database)通过 Issues 或 PRs 进行编辑。
 
 
 编辑标签
@@ -32,7 +32,7 @@
 标签编辑页面如下图。  
 ![](img/edit.png)
 
-左侧为编辑区域，在此处选择添加标签的命名空间，输入原始标签名称、中文名称、描述和外部链接。各字段的填写要求参见[参与翻译](https://github.com/EhTagTranslation/Database/wiki/参与翻译)指南。
+左侧为编辑区域，在此处选择添加标签的命名空间，输入原始标签名称、中文名称、描述和外部链接。各字段的填写要求参见[参与翻译](../../../Database/wiki/参与翻译)指南。
 
 其中标“*”的为必填项，标“![MD](img/logo-markdown.svg)”的表示相应字段支持输入 MarkDown 文本。
 
