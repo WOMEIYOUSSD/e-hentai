@@ -2,7 +2,7 @@
 =====
 本项目使用 GitHub 管理翻译数据，记录用户的贡献。因此，在提交翻译之前，需要准备一个 GitHub 账号，并在 [GitHub](/login) 完成登录。具体操作比较简单，实在不会可以百度。
 
-完成后进入[编辑器主页](//EhTagTranslation.GitHub.io/Editor)，点击右上角的“登录”按钮。  
+完成后进入[编辑器主页](https://ehtt.now.sh)，点击右上角的“登录”按钮。  
 ![](img/logon.png)
 
 在弹出的窗口中选择“Authorize EhTagTranslation”即可将已经在 GitHub 登录的账户授权用于向 EhTagTraslation 项目提交翻译并记录贡献。  
